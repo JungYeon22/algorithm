@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 간단한_369게임 {
+public class 간단한_369게임_D2 {
 
     static BufferedReader br;
     static StringBuilder sb;
