@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class SW_문제해결_기본_1일차_Flatten_D3 {
-
     static BufferedReader br;
     static StringTokenizer st;
     static List<Integer> boxHeight;
@@ -20,16 +19,12 @@ public class SW_문제해결_기본_1일차_Flatten_D3 {
             while(st.hasMoreTokens()){
                 boxHeight.add(Integer.parseInt(st.nextToken()));
             }
-
             Collections.sort(boxHeight);
-
             for(int j=0;j < N;j++){
                 solution();
             }
-
             int result = boxHeight.get(boxHeight.size()-1) - boxHeight.get(0);
-            sb.append("#"+i+" ").append(result).append("\n");
-
+            sb.append("#").append(i).append(" ").append(result).append("\n");
         }
         System.out.println(sb);
     }
