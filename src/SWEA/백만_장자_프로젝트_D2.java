@@ -1,4 +1,4 @@
-package SW_Expert_Academy;
+package SWEA;
 /*
 입력 :
 - 테스트 케이스 T
@@ -12,7 +12,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class 백만_장자_프로젝트_D2 {
     static BufferedReader br;
