@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="SW Expert Academy - [S/W 문제해결 기본] 1일차 - Flatten">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/N_Queen_D3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/큰_수의_최대공약수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW_Expert_Academy/SW_문제해결_기본_1일차_Flatten_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_1일차_Flatten_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW_Expert_Academy/SW_문제해결_기본_1일차_View_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_1일차_View_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW_Expert_Academy/SW_문제해결_기본_2일차_최대상금_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_2일차_최대상금_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW_Expert_Academy/간단한_369게임_D2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/간단한_369게임_D2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW_Expert_Academy/백만_장자_프로젝트_D2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/백만_장자_프로젝트_D2.java" afterDir="false" />
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="SWEA - 햄버거 다이어트">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/수_묶기_G4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/회전하는_큐_S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/t.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +45,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N_Queen_D3">
-    <configuration name="N_Queen_D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.N_Queen_D3" />
+  <component name="RunManager" selected="Application.test4">
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.Solution2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_문제해결_기본_1일차_Flatten_D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_문제해결_기본_1일차_Flatten_D3" />
+    <configuration name="수_묶기_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.수_묶기_G4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="BaekJoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_문제해결_기본_1일차_View_D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_문제해결_기본_1일차_View_D3" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softeerbootcamp.test2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="softeerbootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_문제해결_기본_2일차_최대상금_D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.SW_문제해결_기본_2일차_최대상금_D3" />
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softeerbootcamp.test3" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="softeerbootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="큰_수의_최대공약수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.큰_수의_최대공약수" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softeerbootcamp.test4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="softeerbootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.N_Queen_D3" />
-        <item itemvalue="Application.SWEA.SW_문제해결_기본_1일차_Flatten_D3" />
-        <item itemvalue="Application.SWEA.큰_수의_최대공약수" />
-        <item itemvalue="Application.SWEA.SW_문제해결_기본_2일차_최대상금_D3" />
-        <item itemvalue="Application.SWEA.SW_문제해결_기본_1일차_View_D3" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test3" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.수_묶기_G4" />
+        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +179,35 @@
       <option name="project" value="LOCAL" />
       <updated>1699505700682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SWEA - N-Queen 문제">
+      <created>1700119860970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700119860970</updated>
+    </task>
+    <task id="LOCAL-00009" summary="softeerbootcamp - 모의 테스트">
+      <created>1700188358931</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700188358931</updated>
+    </task>
+    <task id="LOCAL-00010" summary="baekjoon - 영역 구하기 S1">
+      <created>1700200820460</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700200820460</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SWEA - 햄버거 다이어트">
+      <created>1700304846516</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700304846517</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +228,10 @@
     <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 1일차 - View" />
     <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 2일차 - 최대상금" />
     <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 1일차 - Flatten" />
-    <option name="LAST_COMMIT_MESSAGE" value="SW Expert Academy - [S/W 문제해결 기본] 1일차 - Flatten" />
+    <MESSAGE value="SWEA - N-Queen 문제" />
+    <MESSAGE value="softeerbootcamp - 모의 테스트" />
+    <MESSAGE value="baekjoon - 영역 구하기 S1" />
+    <MESSAGE value="SWEA - 햄버거 다이어트" />
+    <option name="LAST_COMMIT_MESSAGE" value="SWEA - 햄버거 다이어트" />
   </component>
 </project>
