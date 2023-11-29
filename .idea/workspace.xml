@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 적록색약 G4">
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/적록색맹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/촌수계산_S1.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/BaekJoon/최단경로_G4.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/촌수계산_S2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJoon/최단경로_G4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution2.java" afterDir="false" />
@@ -15,7 +18,7 @@
       <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BaekJoon/image/적록색맹.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BaekJoon/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BaekJoon/적록색맹_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BaekJoon/적록색맹_G4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +59,7 @@
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.촌수계산_S2">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="softeerbootcamp.Solution" />
       <module name="algorithm" />
@@ -122,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="촌수계산_S2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.촌수계산_S2" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="나이트의_이동_S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.나이트의_이동_S1" />
       <module name="algorithm" />
@@ -137,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.촌수계산_S2" />
         <item itemvalue="Application.나이트의_이동_S1" />
         <item itemvalue="Application.연구소_G4" />
         <item itemvalue="Application.토마토_G5" />
@@ -293,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701178241008</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="test">
+      <created>1701267648657</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267648657</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,6 +351,7 @@
     <MESSAGE value="BaekJoon - 쉬운 계단 수 S1" />
     <MESSAGE value="BaekJoon - 나이트의 이동 S1" />
     <MESSAGE value="BaekJoon - 적록색약 G4" />
-    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 적록색약 G4" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
