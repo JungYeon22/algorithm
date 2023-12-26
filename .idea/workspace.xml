@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/적록색맹.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/촌수계산_S1.md" afterDir="false" />
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 큐2 S4">
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/빙산.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/빙산_G4.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/BaekJoon/최단경로_G4.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/촌수계산_S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/N_Queen_G4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/내리막길_G3_2차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/빙산_G4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/아기상어_G3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaekJoon/최단경로_G4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution2.java" afterDir="false" />
@@ -18,7 +21,6 @@
       <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/softeerbootcamp/test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BaekJoon/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BaekJoon/적록색맹_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BaekJoon/적록색맹_G4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,22 +61,9 @@
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.촌수계산_S2">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="softeerbootcamp.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="softeerbootcamp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="연구소_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.연구소_G4" />
+  <component name="RunManager" selected="Application.빙산_G4">
+    <configuration name="큐2_S4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.큐2_S4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="적록색약_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.적록색약_G4" />
+    <configuration name="N_Queen_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.N_Queen_G4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최단경로_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.최단경로_G4" />
+    <configuration name="팰린드롬확인_B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.팰린드롬확인_B2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="토마토_G5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.토마토_G5" />
+    <configuration name="빙산_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.빙산_G4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="촌수계산_S2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.촌수계산_S2" />
+    <configuration name="효율적인_해킹_S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.효율적인_해킹_S1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="나이트의_이동_S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.나이트의_이동_S1" />
+    <configuration name="스타트와_링크_S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.스타트와_링크_S1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.촌수계산_S2" />
-        <item itemvalue="Application.나이트의_이동_S1" />
-        <item itemvalue="Application.연구소_G4" />
-        <item itemvalue="Application.토마토_G5" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.빙산_G4" />
+        <item itemvalue="Application.큐2_S4" />
+        <item itemvalue="Application.N_Queen_G4" />
+        <item itemvalue="Application.팰린드롬확인_B2" />
+        <item itemvalue="Application.효율적인_해킹_S1" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +306,91 @@
       <option name="project" value="LOCAL" />
       <updated>1701267648657</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="BaekJoon - 촌수계산 S2">
+      <created>1701269624394</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701269624395</updated>
+    </task>
+    <task id="LOCAL-00023" summary="BaekJoon - 촌수계산 S2">
+      <created>1701269691312</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701269691312</updated>
+    </task>
+    <task id="LOCAL-00024" summary="BaekJoon - 벽 부수고 이동하기 G3">
+      <created>1701320643066</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701320643066</updated>
+    </task>
+    <task id="LOCAL-00025" summary="BaekJoon - A-&gt;B S2">
+      <created>1701500329034</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701500329034</updated>
+    </task>
+    <task id="LOCAL-00026" summary="BaekJoon - 연구소 G4 재구현">
+      <created>1701518876118</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701518876118</updated>
+    </task>
+    <task id="LOCAL-00027" summary="BaekJoon - 트리 G5">
+      <created>1701703688709</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1701703688709</updated>
+    </task>
+    <task id="LOCAL-00028" summary="BaekJoon - 이분 그래프 G4">
+      <created>1701841876349</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1701841876349</updated>
+    </task>
+    <task id="LOCAL-00029" summary="BaekJoon - 내리막 길 G3">
+      <created>1701928869138</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1701928869138</updated>
+    </task>
+    <task id="LOCAL-00030" summary="BaekJoon - 효율적인 해킹 S1">
+      <created>1702097097549</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1702097097549</updated>
+    </task>
+    <task id="LOCAL-00031" summary="BaekJoon - 스타트와 링크 S1">
+      <created>1702449072540</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1702449072540</updated>
+    </task>
+    <task id="LOCAL-00032" summary="BaekJoon - 팬린드롬 확인 B2">
+      <created>1702620187155</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702620187155</updated>
+    </task>
+    <task id="LOCAL-00033" summary="BaekJoon - 큐2 S4">
+      <created>1703570034967</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1703570034967</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,12 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SW Expert Academy - 백만장자 프로젝트" />
-    <MESSAGE value="SW Expert Academy - 간단한 369게임(D2)" />
-    <MESSAGE value="SW Expert Academy - 간단한 369게임" />
-    <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 1일차 - View" />
-    <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 2일차 - 최대상금" />
-    <MESSAGE value="SW Expert Academy - [S/W 문제해결 기본] 1일차 - Flatten" />
     <MESSAGE value="SWEA - N-Queen 문제" />
     <MESSAGE value="softeerbootcamp - 모의 테스트" />
     <MESSAGE value="baekjoon - 영역 구하기 S1" />
@@ -352,6 +419,17 @@
     <MESSAGE value="BaekJoon - 나이트의 이동 S1" />
     <MESSAGE value="BaekJoon - 적록색약 G4" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="BaekJoon - 촌수계산 S2" />
+    <MESSAGE value="BaekJoon - 벽 부수고 이동하기 G3" />
+    <MESSAGE value="BaekJoon - A-&gt;B S2" />
+    <MESSAGE value="BaekJoon - 연구소 G4 재구현" />
+    <MESSAGE value="BaekJoon - 트리 G5" />
+    <MESSAGE value="BaekJoon - 이분 그래프 G4" />
+    <MESSAGE value="BaekJoon - 내리막 길 G3" />
+    <MESSAGE value="BaekJoon - 효율적인 해킹 S1" />
+    <MESSAGE value="BaekJoon - 스타트와 링크 S1" />
+    <MESSAGE value="BaekJoon - 팬린드롬 확인 B2" />
+    <MESSAGE value="BaekJoon - 큐2 S4" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 큐2 S4" />
   </component>
 </project>
