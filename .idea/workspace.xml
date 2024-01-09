@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 다리 놓기 S5">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Bronze/부녀회장이_될거야_B1.java" afterDir="false" />
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 부녀회장이 될거야 B1">
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/연속합.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/연속합_S2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Silver/연속합_S2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/타일링_2곱n_2_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Silver/타일링_2곱n_2_S3.java" afterDir="false" />
     </list>
@@ -44,7 +46,7 @@
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.부녀회장이_될거야_B1">
+  <component name="RunManager" selected="Application.연속합_S2">
     <configuration name="BaekJoon.Silver.파도반_수열_S3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.파도반_수열_S3" />
       <module name="algorithm" />
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon.Silver.가장_긴_증가하는_부분_수열_S2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.가장_긴_증가하는_부분_수열_S2" />
+    <configuration name="연속합_S2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.연속합_S2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.연속합_S2" />
         <item itemvalue="Application.부녀회장이_될거야_B1" />
         <item itemvalue="Application.다리_놓기_S5" />
         <item itemvalue="Application.BaekJoon.Silver.쉬운_계단_수_S1" />
         <item itemvalue="Application.BaekJoon.Silver.파도반_수열_S3" />
-        <item itemvalue="Application.BaekJoon.Silver.가장_긴_증가하는_부분_수열_S2" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704519061314</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="BaekJoon - 부녀회장이 될거야 B1">
+      <created>1704715393928</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1704715393928</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BaekJoon - 적록색약 G4" />
     <MESSAGE value="test" />
     <MESSAGE value="BaekJoon - 촌수계산 S2" />
     <MESSAGE value="BaekJoon - 벽 부수고 이동하기 G3" />
@@ -498,6 +506,7 @@
     <MESSAGE value="BaekJoon - 나는야 포켓몬 마스터 이다솜 S4" />
     <MESSAGE value="구조 재배치 / 티어별 문제로 구분" />
     <MESSAGE value="BaekJoon - 다리 놓기 S5" />
-    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 다리 놓기 S5" />
+    <MESSAGE value="BaekJoon - 부녀회장이 될거야 B1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 부녀회장이 될거야 B1" />
   </component>
 </project>
