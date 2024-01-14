@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 정수 삼각형 S1">
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/Silver/퇴사_S3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/퇴사.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Silver/퇴사_S3.java" afterDir="false" />
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 퇴사 S3">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Silver/균형잡힌_세상_S4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,20 +44,7 @@
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\Silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.퇴사_S3">
-    <configuration name="BaekJoon.Silver.연속합_S2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.연속합_S2" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.균형잡힌_세상_S4">
     <configuration name="BaekJoon.Silver.이친수_S3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.이친수_S3" />
       <module name="algorithm" />
@@ -112,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="균형잡힌_세상_S4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.균형잡힌_세상_S4" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.균형잡힌_세상_S4" />
         <item itemvalue="Application.퇴사_S3" />
         <item itemvalue="Application.정수_삼각형_S1" />
         <item itemvalue="Application.BaekJoon.Silver.이친수_S3" />
         <item itemvalue="Application.피보나치_수2_B1" />
-        <item itemvalue="Application.BaekJoon.Silver.연속합_S2" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698674091222</updated>
-    </task>
-    <task id="LOCAL-00005" summary="SW Expert Academy - [S/W 문제해결 기본] 2일차 - 최대상금">
-      <created>1699360013181</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1699360013181</updated>
     </task>
     <task id="LOCAL-00006" summary="SW Expert Academy - [S/W 문제해결 기본] 1일차 - Flatten">
       <created>1699505616569</created>
@@ -474,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705051969568</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="BaekJoon - 퇴사 S3">
+      <created>1705142582021</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1705142582022</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BaekJoon - 트리 G5" />
     <MESSAGE value="BaekJoon - 이분 그래프 G4" />
     <MESSAGE value="BaekJoon - 내리막 길 G3" />
     <MESSAGE value="BaekJoon - 효율적인 해킹 S1" />
@@ -514,6 +511,7 @@
     <MESSAGE value="BaekJoon - 피보나치 수2 B1" />
     <MESSAGE value="BaekJoon - 이친수 S3" />
     <MESSAGE value="BaekJoon - 정수 삼각형 S1" />
-    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 정수 삼각형 S1" />
+    <MESSAGE value="BaekJoon - 퇴사 S3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 퇴사 S3" />
   </component>
 </project>
