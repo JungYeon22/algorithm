@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 포도주 시식 S1">
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/Silver/_01타일_S3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BaekJoon/image/_01타일.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Silver/_01타일_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 01타일 S3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698674091222</updated>
-    </task>
-    <task id="LOCAL-00009" summary="softeerbootcamp - 모의 테스트">
-      <created>1700188358931</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1700188358931</updated>
     </task>
     <task id="LOCAL-00010" summary="baekjoon - 영역 구하기 S1">
       <created>1700200820460</created>
@@ -487,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705318808155</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="BaekJoon - 01타일 S3">
+      <created>1705374464257</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1705374464258</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BaekJoon - 스타트와 링크 S1" />
     <MESSAGE value="BaekJoon - 팬린드롬 확인 B2" />
     <MESSAGE value="BaekJoon - 큐2 S4" />
     <MESSAGE value="BaekJoon - 빙산 G4" />
@@ -527,6 +521,7 @@
     <MESSAGE value="BaekJoon - 균형잡힌 세상 S4" />
     <MESSAGE value="BaekJoon - 균형잡힌 세상 S4 / 문제 회고 수정" />
     <MESSAGE value="BaekJoon - 포도주 시식 S1" />
-    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 포도주 시식 S1" />
+    <MESSAGE value="BaekJoon - 01타일 S3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 01타일 S3" />
   </component>
 </project>
