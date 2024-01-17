@@ -1,130 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment=".gitignore update">
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 스티커 S1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/A에서B_S2.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/A에서B_S2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/_01타일_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/_01타일_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/균형잡힌_세상_S4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/균형잡힌_세상_S4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/이친수_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/이친수_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/정수_삼각형_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/정수_삼각형_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/퇴사_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/퇴사_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/Silver/포도주_시식_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/Silver/포도주_시식_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/_1_2_3더하기_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/_1_2_3더하기_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/1로만들기.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/1로만들기.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/2곱n_타일링.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/2곱n_타일링.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/A에서B.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/A에서B.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/_01타일.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/_01타일.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/_1_2_3더하기.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/_1_2_3더하기.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/가장_긴_증가하는_부분_수열.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/가장_긴_증가하는_부분_수열.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/계단오르기.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/계단오르기.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/균형잡힌_세상.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/균형잡힌_세상.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/나는야_포켓몬_마스터.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/나는야_포켓몬_마스터.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/내리막길.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/내리막길.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/다리놓기.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/다리놓기.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/벽부수고이동하기.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/벽부수고이동하기.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/부녀회장이될거야.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/부녀회장이될거야.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/빙산.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/빙산.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/쉬운_계단_수.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/쉬운_계단_수.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/스타트링크.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/스타트링크.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/스타트와링크.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/스타트와링크.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/연구소.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/연구소.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/연속합.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/연속합.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/이분그래프.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/이분그래프.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/이친수.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/이친수.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/적록색맹.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/적록색맹.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/정수_삼각형.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/정수_삼각형.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/촌수계산.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/촌수계산.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/큐2.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/큐2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/타일링2곱n.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/타일링2곱n.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/퇴사.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/퇴사.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/트리.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/트리.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/파도반_수열.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/파도반_수열.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/팰린드롬.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/팰린드롬.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/포도주_시식.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/포도주_시식.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/피보나치수2.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/피보나치수2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/image/효율적인해킹.png" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/image/효율적인해킹.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/가장_긴_증가하는_부분수열_S2.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/가장_긴_증가하는_부분수열_S2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/값을1로만들기_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/값을1로만들기_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/계단오르기_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/계단오르기_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/나는야_포켓몬_마스터_S4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/나는야_포켓몬_마스터_S4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/내리막길_G3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/내리막길_G3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/다리_놓기_S5.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/다리_놓기_S5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/벽_부수고_이동하기_G3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/벽_부수고_이동하기_G3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/부녀회장이_될거야_B1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/부녀회장이_될거야_B1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/빙산_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/빙산_G4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/쉬운_계단_수_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/쉬운_계단_수_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/스타트링크_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/스타트링크_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/스타트와_링크_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/스타트와_링크_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/연구소_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/연구소_G4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/연속합_S2.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/연속합_S2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/이분그래프_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/이분그래프_G4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/적록색맹_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/적록색맹_G4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/촌수계산_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/촌수계산_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/최단경로_G4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/최단경로_G4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/큐2_S4.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/큐2_S4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/타일링2곱n.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/타일링2곱n.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/타일링_2곱n_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/타일링_2곱n_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/트리_G5.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/트리_G5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/파도반_수열_S3.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/파도반_수열_S3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/팰린드롬_B2.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/팰린드롬_B2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/피보나치_수2_B1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/피보나치_수2_B1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BaekJoon/효율적인_해킹_S1.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/BaekJoon/효율적인_해킹_S1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제_회고/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Bronze/부녀회장이_될거야_B1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Bronze/부녀회장이_될거야_B1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Bronze/팰린드롬확인_B2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Bronze/팰린드롬확인_B2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Bronze/피보나치_수2_B1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Bronze/피보나치_수2_B1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/N_Queen_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/N_Queen_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/내리막길_G3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/내리막길_G3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/문자열_폭발_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/문자열_폭발_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/벽_부수고_이동하기_G3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/벽_부수고_이동하기_G3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/빙산_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/빙산_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/수_묶기_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/수_묶기_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/아기상어_G3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/아기상어_G3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/연구소2_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/연구소2_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/연구소_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/연구소_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/이분그래프_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/이분그래프_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/적록색약_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/적록색약_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/최단경로_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/최단경로_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/토마토_G5.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/토마토_G5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Gold/트리_G5.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Gold/트리_G5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/A에서B_S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/A에서B_S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/RGB거리_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/RGB거리_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/_01타일_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/_01타일_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/_1_2_3더하기_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/_1_2_3더하기_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/가장_긴_증가하는_부분_수열_S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/가장_긴_증가하는_부분_수열_S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/값을1로만들기_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/값을1로만들기_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/계단오르기_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/계단오르기_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/균형잡힌_세상_S4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/균형잡힌_세상_S4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/나는야_포켓몬_마스터_이다솜_S4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/나는야_포켓몬_마스터_이다솜_S4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/나이트의_이동_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/나이트의_이동_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/다리_놓기_S5.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/다리_놓기_S5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/쉬운_계단_수_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/쉬운_계단_수_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/스타트링크_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/스타트링크_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/스타트와_링크_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/스타트와_링크_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/신입사원_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/신입사원_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/연속합_S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/연속합_S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/영역_구하기_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/영역_구하기_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/이친수_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/이친수_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/정수_삼각형_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/정수_삼각형_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/촌수계산_S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/촌수계산_S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/큐2_S4.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/큐2_S4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/타일링2곱n_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/타일링2곱n_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/타일링_2곱n_2_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/타일링_2곱n_2_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/퇴사_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/퇴사_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/파도반_수열_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/파도반_수열_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/포도주_시식_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/포도주_시식_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/회전하는_큐_S3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/회전하는_큐_S3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Silver/효율적인_해킹_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/효율적인_해킹_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/N_Queen_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/N_Queen_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_1일차_Flatten_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/SW_문제해결_기본_1일차_Flatten_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_1일차_View_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/SW_문제해결_기본_1일차_View_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/SW_문제해결_기본_2일차_최대상금_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/SW_문제해결_기본_2일차_최대상금_D3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/간단한_369게임_D2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/간단한_369게임_D2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/백만_장자_프로젝트_D2.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/백만_장자_프로젝트_D2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/큰_수의_최대공약수.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/큰_수의_최대공약수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/햄버거_다이어트_D3.java" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘_문제/SWEA/햄버거_다이어트_D3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,13 +39,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\STUDY\algorithm\algorithm\알고리즘_문제_회고\BaekJoon\image" />
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\image" />
       <recent name="D:\STUDY\algorithm\algorithm\docs\BaekJoon\Silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01타일_S3">
-    <configuration name="BaekJoon.Silver.이친수_S3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.이친수_S3" />
+  <component name="RunManager" selected="Application.스티커_S1">
+    <configuration name="_01타일_S3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver._01타일_S3" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01타일_S3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver._01타일_S3" />
+    <configuration name="스티커_S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Silver.스티커_S1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -246,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.스티커_S1" />
         <item itemvalue="Application._01타일_S3" />
         <item itemvalue="Application.균형잡힌_세상_S4" />
         <item itemvalue="Application.퇴사_S3" />
         <item itemvalue="Application.정수_삼각형_S1" />
-        <item itemvalue="Application.BaekJoon.Silver.이친수_S3" />
       </list>
     </recent_temporary>
   </component>
@@ -262,27 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698674091222</updated>
-    </task>
-    <task id="LOCAL-00011" summary="SWEA - 햄버거 다이어트">
-      <created>1700304846516</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1700304846517</updated>
-    </task>
-    <task id="LOCAL-00012" summary="BaekJoon - 수 묶기 / 회전하는 큐">
-      <created>1700543244767</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1700543244767</updated>
-    </task>
-    <task id="LOCAL-00013" summary="BaekJoon - 문자열 폭발">
-      <created>1700555049657</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1700555049657</updated>
     </task>
     <task id="LOCAL-00014" summary="BaekJoon - RGB거리_S1">
       <created>1700632954798</created>
@@ -606,7 +464,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705402838902</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="refactor - root directory rename">
+      <created>1705403523768</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1705403523768</updated>
+    </task>
+    <task id="LOCAL-00061" summary=".gitignore update">
+      <created>1705403612017</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1705403612017</updated>
+    </task>
+    <task id="LOCAL-00062" summary="BaekJoon - 스티커 S1">
+      <created>1705484439203</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1705484439203</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -621,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BaekJoon - 큐2 S4" />
-    <MESSAGE value="BaekJoon - 빙산 G4" />
     <MESSAGE value="BaekJoon - 스타트링크 S1" />
     <MESSAGE value="BaekJoon - 1로 만들기 S3" />
     <MESSAGE value="BaekJoon - 2*n 타일링 S3" />
@@ -645,7 +522,9 @@
     <MESSAGE value="BaekJoon - 균형잡힌 세상 S4 / 문제 회고 수정" />
     <MESSAGE value="BaekJoon - 포도주 시식 S1" />
     <MESSAGE value="BaekJoon - 01타일 S3" />
+    <MESSAGE value="refactor - root directory rename" />
     <MESSAGE value=".gitignore update" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore update" />
+    <MESSAGE value="BaekJoon - 스티커 S1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 스티커 S1" />
   </component>
 </project>
