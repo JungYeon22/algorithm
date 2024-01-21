@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="refactor file rename">
+    <list default="true" id="8fa4e31c-cbf6-4a78-a9b1-9bfd41e5c21d" name="Changes" comment="BaekJoon - 평범한 배낭 G5">
       <change afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/수_정렬하기_S4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘_문제/BaekJoon/Silver/평범한_배낭_G5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘_문제_리뷰/BaekJoon/Gold/평범한_배낭_G5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘_문제_리뷰/BaekJoon/image/평범한_배낭.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘_문제_리뷰/BaekJoon/Silver/수_정렬하기_S4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘_문제_리뷰/BaekJoon/image/수_정렬하기.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698674091222</updated>
-    </task>
-    <task id="LOCAL-00015" summary="BaekJoon - 신입사원 S1">
-      <created>1700648564130</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1700648564130</updated>
     </task>
     <task id="LOCAL-00016" summary="BaekJoon - 토마토 G5">
       <created>1700977429217</created>
@@ -490,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705484652809</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="BaekJoon - 평범한 배낭 G5">
+      <created>1705920221162</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1705920221162</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BaekJoon - 1로 만들기 S3" />
     <MESSAGE value="BaekJoon - 2*n 타일링 S3" />
     <MESSAGE value="BaekJoon - 최단 경로 G4" />
     <MESSAGE value="BaekJoon - 계단 오르기 S3" />
@@ -530,6 +528,7 @@
     <MESSAGE value=".gitignore update" />
     <MESSAGE value="BaekJoon - 스티커 S1" />
     <MESSAGE value="refactor file rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor file rename" />
+    <MESSAGE value="BaekJoon - 평범한 배낭 G5" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon - 평범한 배낭 G5" />
   </component>
 </project>
