@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 케빈_베이컨의_6단계_법칙 {
+public class 케빈_베이컨의_6단계_법칙_S1 {
     static int N,M;
 
     static LinkedList[] graph;

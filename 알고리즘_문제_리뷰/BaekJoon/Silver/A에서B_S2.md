@@ -1,4 +1,4 @@
-![img.png](image/A에서B.png)
+![img.png](../_image/A에서B.png)
 
 - 이 문제는 매 순간마다 
 1. 2를 곱하거나 
